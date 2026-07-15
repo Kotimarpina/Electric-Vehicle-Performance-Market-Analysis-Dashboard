@@ -21,7 +21,7 @@ The project focuses on uncovering key insights into electric vehicle performance
 ### Visualizations
  -Average Top Speed by Brand & Body Style
 
- <img width="749" height="722" alt="Screenshot 2026-07-05 at 5 07 50 PM" src="Screenshots/Averge Top Speed By Brand and Body.png" />
+  <img width="749" height="722" alt="Screenshot 2026-07-05 at 5 07 50 PM" src="Screenshots/Averge Top Speed By Brand and Body.png" />
 
 
 
