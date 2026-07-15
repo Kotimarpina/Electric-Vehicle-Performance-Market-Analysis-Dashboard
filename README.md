@@ -1,5 +1,5 @@
 
-# Food Ordering Analytics Dashboard
+# Electric Vehicle Performance &Market Analysis Dashboard
 <img width="1456" height="945" alt="Screenshot 2026-07-05 at 9 05 16 PM" src="Screenshots/Electric Vehicle Performance &Market Analysis Dashboard.png" />
 
 ## Project Overview
