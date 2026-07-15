@@ -21,11 +21,11 @@ The project focuses on uncovering key insights into electric vehicle performance
 ### Visualizations
 -Average Top Speed by Brand & Body Style
 
- <img width="608" height="448" alt="Screenshot 2026-07-05 at 5 07 50 PM" src="Screenshots/Averge Top Speed By Brand and Body.png" />
+ <img width="749" height="722" alt="Screenshot 2026-07-05 at 5 07 50 PM" src="Screenshots/Averge Top Speed By Brand and Body.png" />
 
 
 -Charging Stations by Region
-  <img width="552" height="728" alt="Screenshot 2026-07-05 at 8 58 52 PM" src="Screenshots/Count_Of_Stations_By_Region.png" />
+  <img width="749" height="722" alt="Screenshot 2026-07-05 at 8 58 52 PM" src="Screenshots/Count_Of_Stations_By_Region.png" />
 
 - Top 10 EV Models by Maximum Top Speed
 
