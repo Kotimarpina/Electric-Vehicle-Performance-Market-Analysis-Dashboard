@@ -11,8 +11,11 @@ The project focuses on uncovering key insights into electric vehicle performance
 ### Dashboard KPIs
 
 -Total EV Models
+
 -Average Top Speed (km/h)
+
 -Average Driving Range (km)
+
 -Average Fast Charging Speed (km/h)
 
 ### Visualizations
@@ -30,15 +33,15 @@ The project focuses on uncovering key insights into electric vehicle performance
 
 - Acceleration Distribution by Body Style
   
-  <img width="197" height="165" alt="Screenshot 2026-07-05 at 8 59 36 PM" src="Screenshots/Acceleration Distribution By Body And Brand.png" />
+  <img width="749" height="722" alt="Screenshot 2026-07-05 at 8 59 36 PM" src="Screenshots/Acceleration Distribution By Body And Brand.png" />
 
 - Electric Vehicle Price Comparison
 
-  <img width="196" height="179" alt="Screenshot 2026-07-05 at 4 59 46 PM" src="hScreenshots/Electric Car Price Comparision.png" />
+  <img width="749" height="722" alt="Screenshot 2026-07-05 at 4 59 46 PM" src="Screenshots/Electric Car Price Comparision.png" />
 
 - Average Driving Range by Brand
 
-<img width="604" height="421" alt="Screenshot 2026-07-05 at 4 58 22 PM" src="Screenshots/Average Km Distributed By Brand Of Cars.png" />
+<img width="749" height="722" alt="Screenshot 2026-07-05 at 4 58 22 PM" src="Screenshots/Average Km Distributed By Brand Of Cars.png" />
 
 ## Tools Used
 
@@ -55,7 +58,7 @@ Combined Electric Vehicle Performance and Charging Infrastructure Datasets
 
 ## Use Links
 - Github Repo: [GitHub Repository](https://github.com/Kotimarpina/Electric-Vehicle-Performance-Market-Analysis-.git)
-- Tableau Public Profile: [View Tableau Public Profile](https://public.tableau.com/app/profile/koti.marpina/viz/Final_DashboardStory/Story1?publish=yes)
+- Tableau Public Profile: [View Tableau Public Profile](https://public.tableau.com/app/profile/koti.marpina)
 - Tableau Dashboard: [View Dashboard](https://public.tableau.com/app/profile/koti.marpina/viz/Final_Dashboard_17840403590320/ElectricalVehicleDashboard?publish=yes)
 - Tableau Story: [View Story](https://public.tableau.com/app/profile/koti.marpina/viz/Final_DashboardStory/Story1?publish=yes)
 - Demo Video:[View Video](https://drive.google.com/file/d/19gJaq68N7qaY1Ppd8yp1u0NLHe8BewtC/view?usp=drive_link)
