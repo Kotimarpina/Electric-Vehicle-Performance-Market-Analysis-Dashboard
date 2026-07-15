@@ -24,8 +24,6 @@ The project focuses on uncovering key insights into electric vehicle performance
  <img width="749" height="722" alt="Screenshot 2026-07-05 at 5 07 50 PM" src="Screenshots/Averge Top Speed By Brand and Body.png" />
 
 
--Charging Stations by Region
-  <img width="749" height="722" alt="Screenshot 2026-07-05 at 8 58 52 PM" src="Screenshots/Count_Of_Stations_By_Region.png" />
 
 - Top 10 EV Models by Maximum Top Speed
 
@@ -41,7 +39,10 @@ The project focuses on uncovering key insights into electric vehicle performance
 
 - Average Driving Range by Brand
 
-<img width="749" height="722" alt="Screenshot 2026-07-05 at 4 58 22 PM" src="Screenshots/Average Km Distributed By Brand Of Cars.png" />
+  <img width="749" height="722" alt="Screenshot 2026-07-05 at 4 58 22 PM" src="Screenshots/Average Km Distributed By Brand Of Cars.png" />
+
+-Charging Stations by Region
+  <img width="749" height="722" alt="Screenshot 2026-07-05 at 8 58 52 PM" src="Screenshots/Count_Of_Stations_By_Region.png" />
 
 ## Tools Used
 
